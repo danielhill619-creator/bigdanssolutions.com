@@ -1,3 +1,21 @@
+const analyticsMeasurementId = "G-PW68WL3H67";
+const analyticsHostnames = new Set(["bigdanssolutions.com", "www.bigdanssolutions.com"]);
+
+if (analyticsHostnames.has(window.location.hostname)) {
+  window.dataLayer = window.dataLayer || [];
+  window.gtag = function gtag() {
+    window.dataLayer.push(arguments);
+  };
+
+  const analyticsScript = document.createElement("script");
+  analyticsScript.async = true;
+  analyticsScript.src = `https://www.googletagmanager.com/gtag/js?id=${analyticsMeasurementId}`;
+  document.head.appendChild(analyticsScript);
+
+  window.gtag("js", new Date());
+  window.gtag("config", analyticsMeasurementId);
+}
+
 if ("scrollRestoration" in history) {
   history.scrollRestoration = "manual";
 }
