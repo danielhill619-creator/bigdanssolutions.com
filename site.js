@@ -1,4 +1,4 @@
-const analyticsMeasurementId = "G-PW68WL3H67";
+const analyticsMeasurementId = "G-0E1BLWT00Z";
 const analyticsHostnames = new Set(["bigdanssolutions.com", "www.bigdanssolutions.com"]);
 
 if (analyticsHostnames.has(window.location.hostname)) {
