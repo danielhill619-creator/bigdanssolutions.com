@@ -1,6 +1,6 @@
 # Big Dan's Solutions SEO Keyword Map
 
-Last updated: 2026-06-18
+Last updated: 2026-06-19
 
 ## Rules
 
@@ -13,6 +13,20 @@ Last updated: 2026-06-18
 ## Current Search Signals
 
 - Search Console: 9 impressions, 0 clicks, no top-query rows yet.
+- Search Console sitemap status checked in Daniel's real Chrome session:
+  - `/sitemap.xml` is submitted successfully.
+  - Search Console shows submitted Jun 18, 2026, last read Jun 18, 2026.
+  - Search Console shows 10 discovered pages and 0 discovered videos.
+- Live `https://bigdanssolutions.com/sitemap.xml` contains 11 URLs, including `/crm-automation-help.html`.
+- `sitemap.xml` was resubmitted in Search Console after the CRM page was added; Search Console confirmed "Sitemap submitted successfully."
+- URL inspection for `/crm-automation-help.html` showed "URL is not on Google" and "URL is unknown to Google"; indexing was requested and Search Console confirmed it was added to the priority crawl queue.
+- Site-side SEO improvements completed Jun 19, 2026:
+  - Added Service + Breadcrumb structured data to the services hub and focused service pages.
+  - Added FAQ structured data to the homepage using the visible FAQ content.
+  - Strengthened title tags for the services, local Google help, missed-call follow-up, and CRM pages.
+  - Added relevant service images to focused service pages with descriptive alt text, intrinsic dimensions, lazy loading, and async decoding.
+  - Added intrinsic dimensions/loading hints to existing logo and proof images.
+  - Updated sitemap `lastmod` values for changed pages.
 - Google autocomplete paths checked:
   - business consultant near me
   - business advisor near me
