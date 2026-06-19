@@ -24,6 +24,8 @@ Last updated: 2026-06-19
   - Added Service + Breadcrumb structured data to the services hub and focused service pages.
   - Added FAQ structured data to the homepage using the visible FAQ content.
   - Strengthened title tags for the services, local Google help, missed-call follow-up, and CRM pages.
+  - Reworked awkward comma-form regional wording to Toccoa-first titles and Northeast Georgia service-area copy.
+  - Expanded structured-data service areas to Toccoa, Stephens County, and Northeast Georgia where relevant.
   - Added relevant service images to focused service pages with descriptive alt text, intrinsic dimensions, lazy loading, and async decoding.
   - Added intrinsic dimensions/loading hints to existing logo and proof images.
   - Updated sitemap `lastmod` values for changed pages.
