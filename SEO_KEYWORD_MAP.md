@@ -29,6 +29,10 @@ Last updated: 2026-06-20
   - Photo manager showed 9 uploaded business photos and the logo slot showed Change logo.
   - Photo manager still showed Add a cover photo, so the branded cover image is uploaded as media but is not confirmed as the active cover slot.
   - Google search result snippet still showed the older "Northeast, GA" wording from cache even though the live site copy has been corrected.
+- Google Business Profile free-checkup post verified on Jun 20, 2026:
+  - Main profile panel showed 34 views.
+  - Public result/profile panel showed the free Google presence checkup post as visible with a 3-hour relative timestamp.
+  - The prior "messy middle" post was still visible below it with an 18-hour relative timestamp.
 - Google Business Profile post published on Jun 19, 2026:
   - Text-only update published and verified on the Posts surface.
   - Post focuses on Toccoa and Northeast Georgia owners needing websites, Google Business Profile setup, missed-call follow-up, CRM setup, automation, reporting, estimating, and practical systems.
@@ -46,6 +50,8 @@ Last updated: 2026-06-20
 - Live `https://bigdanssolutions.com/sitemap.xml` contains 11 URLs, including `/crm-automation-help.html`.
 - `sitemap.xml` was resubmitted in Search Console after the CRM page was added; Search Console confirmed "Sitemap submitted successfully."
 - URL inspection for `/crm-automation-help.html` showed "URL is not on Google" and "URL is unknown to Google"; indexing was requested and Search Console confirmed it was added to the priority crawl queue.
+- URL inspection for `/google-presence-checkup.html` on Jun 20, 2026 showed "URL is not on Google" and "URL is unknown to Google"; indexing was requested and Search Console confirmed it was added to the priority crawl queue.
+- `/sitemap.xml` was resubmitted again on Jun 20, 2026 after the free-checkup page was added; Search Console confirmed "Sitemap submitted successfully." The sitemap row showed submitted Jun 20, 2026, last read Jun 20, 2026, Success, 11 discovered pages.
 - Site-side SEO improvements completed Jun 19, 2026:
   - Added Service + Breadcrumb structured data to the services hub and focused service pages.
   - Added FAQ structured data to the homepage using the visible FAQ content.
