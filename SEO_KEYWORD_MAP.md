@@ -1,6 +1,6 @@
 # Big Dan's Solutions SEO Keyword Map
 
-Last updated: 2026-06-19
+Last updated: 2026-06-20
 
 ## Rules
 
@@ -13,6 +13,32 @@ Last updated: 2026-06-19
 ## Current Search Signals
 
 - Search Console: 9 impressions, 0 clicks, no top-query rows yet.
+- Google Business Profile live readback on Jun 19, 2026:
+  - Main profile panel showed 28 views.
+  - Category: Business management consultant.
+  - Phone, hours, website, service area, and profile management access were visible.
+  - Profile Strength showed Complete.
+  - Performance view showed 0 calls, 0 bookings, 0 website clicks, and 0 Business Profile interactions for Jan-Jun 2026.
+  - Performance device breakdown showed 12 Google Search desktop, 7 Google Maps desktop, 5 Google Maps mobile, and 4 Google Search mobile discovery events, but fewer than 50 searches, so query terms were not shown.
+  - Google still prompted for first reviews, Add update, Set up booking, Add Chat, and Add address autocomplete.
+  - Photo manager still showed one pending item plus Change cover and Change logo after the branded cover/logo uploads.
+- Google Business Profile live readback on Jun 20, 2026:
+  - Main profile panel showed 31 views.
+  - Profile Strength still showed Complete.
+  - Public result/profile panel showed the Google Business Profile post as visible, with a current relative timestamp.
+  - Photo manager showed 9 uploaded business photos and the logo slot showed Change logo.
+  - Photo manager still showed Add a cover photo, so the branded cover image is uploaded as media but is not confirmed as the active cover slot.
+  - Google search result snippet still showed the older "Northeast, GA" wording from cache even though the live site copy has been corrected.
+- Google Business Profile post published on Jun 19, 2026:
+  - Text-only update published and verified on the Posts surface.
+  - Post focuses on Toccoa and Northeast Georgia owners needing websites, Google Business Profile setup, missed-call follow-up, CRM setup, automation, reporting, estimating, and practical systems.
+  - Includes the contact link: `https://bigdanssolutions.com/contact.html`.
+- Google Business Profile services live readback on Jun 19, 2026:
+  - Listed: Google Business Profile setup, Google Business Profile optimization, Local SEO, Website cleanup, Lead follow-up systems, Workflow cleanup, Business automation, Reporting dashboards, Estimating systems, Practical business systems.
+  - Gap to add when the service editor is stable: Small business CRM setup.
+- Google Business Profile services rechecked on Jun 20, 2026:
+  - Same services were visible.
+  - The Add more services path still changed to the section URL but rendered only the Services header, so adding Small business CRM setup is still blocked by Google's editor UI.
 - Search Console sitemap status checked in Daniel's real Chrome session:
   - `/sitemap.xml` is submitted successfully.
   - Search Console shows submitted Jun 18, 2026, last read Jun 18, 2026.
@@ -52,6 +78,7 @@ Last updated: 2026-06-19
 | `/business-help-toccoa-ga.html` | small business consultant in Toccoa, GA | business consultant near me, business advisor near me, small business advice near me | Local consultant/advisor intent. |
 | `/small-business-websites-northeast-ga.html` | small business website help near Toccoa, GA | website designer near me, website developer near me, website design near me | Website/service-page intent. |
 | `/local-seo-help-northeast-ga.html` | help getting your business on Google | help me get my business on Google, who can help me get my business on Google, Google Business Profile help | Google visibility intent. |
+| `/google-presence-checkup.html` | free Google presence checkup near Toccoa, GA | Google Business Profile checkup, Google listing review, local SEO review | First-client acquisition offer tied to GBP posts and local outreach. |
 | `/missed-call-follow-up-help.html` | missed call text back automation | missed call text back service, missed call text back software, quote reminders, review requests | Lead response/follow-up intent. |
 | `/crm-automation-help.html` | small business CRM setup and automation help | CRM consultant near me, small business automation consultant, customer tracking, workflow automation | CRM and automation intent. |
 | `/project-examples.html` | business process improvement examples | follow-up automation, owner dashboard, reporting cleanup | Proof page, not a primary keyword page. |
