@@ -1854,6 +1854,38 @@ body.lightbox-open {
   border-top: 1px solid rgba(9, 35, 61, 0.13);
 }
 
+.project-detail-drawer {
+  max-width: min(1120px, calc(100% - 2rem));
+  margin: 0 auto;
+}
+
+.project-detail-drawer summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  width: fit-content;
+  max-width: 100%;
+  margin: 0 auto 1.5rem;
+  padding: 0.85rem 1rem;
+  border: 1px solid rgba(9, 35, 61, 0.18);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.88);
+  color: var(--navy);
+  cursor: pointer;
+  font-family: var(--font-heading);
+  font-weight: 800;
+}
+
+.project-detail-drawer summary::after {
+  content: "+";
+  font-size: 1.1rem;
+}
+
+.project-detail-drawer[open] summary::after {
+  content: "-";
+}
+
 .work-spotlight {
   display: grid;
 }
@@ -3998,6 +4030,12 @@ html[data-theme="dark"] .example-card {
   background: transparent;
   border-color: transparent;
   box-shadow: none;
+}
+
+html[data-theme="dark"] .project-detail-drawer summary {
+  background: rgba(255, 255, 255, 0.08);
+  border-color: rgba(255, 255, 255, 0.16);
+  color: var(--text);
 }
 
 html[data-theme="dark"] .work-card:not(.work-card-dark),
