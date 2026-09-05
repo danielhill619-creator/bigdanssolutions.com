@@ -3,10 +3,8 @@ VERSION:3.0
 N:Hill;Daniel;;;
 FN:Daniel Hill
 ORG:Big Dan's Solutions
-TITLE:Business Systems Consultant
-TEL;TYPE=CELL,VOICE,TEXT:+17066123502
-EMAIL;TYPE=INTERNET:dan@bigdanssolutions.com
-URL:https://bigdanssolutions.com/card/?v=booked-jobs-20260622
-ADR;TYPE=WORK:;;;Toccoa;GA;;;United States
-NOTE:Helps local service businesses turn missed calls, slow quotes, weak follow-up, and scattered tools into more booked jobs.
+EMAIL;TYPE=INTERNET,WORK:dan@bigdanssolutions.com
+TEL;TYPE=WORK,VOICE:+17066123502
+URL:https://bigdanssolutions.com/
+NOTE:Website help and practical digital tools. Toccoa and Northeast Georgia.
 END:VCARD
